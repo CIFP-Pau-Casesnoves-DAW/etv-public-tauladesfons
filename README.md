@@ -2,6 +2,8 @@
 
 ## Documentació de l'api:
 ### http://www.etvtauladesfons.com
+## Client:
+### http://www.etvtauladesfons.com/etvclient
 
 ### *Participants*
 - Isaac Palou Gijon
