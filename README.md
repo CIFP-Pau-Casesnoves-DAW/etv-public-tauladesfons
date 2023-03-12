@@ -3,7 +3,7 @@
 ## Documentació de l'api:
 ### http://www.etvtauladesfons.com
 ## Client:
-### http://www.etvtauladesfons.com/etvclient
+### http://etvtauladesfons.com/etvclient
 ## React Code:
 https://github.com/isaacpaloug/ETVtauladesfons-frontend
 
